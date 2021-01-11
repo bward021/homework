@@ -66,11 +66,13 @@
   - to define the direction of the elements
 - What is the purpose of Justify Content?
   - to move and align items horizontally
+- What is the purpose of Align Items?
+  - aligns items vertically
+- What is the purpose of flex basis?
+  - it defines the default size of an element
 - What is the purpose of Flex Grow?
-  - defines how fast an elemt grows
+  - defines how fast an element grows
 - What is the purpose of Flex Shrink?
   - defines how fast an element shrinks
 - What is the purpose of Flex Wrap?
   - can allow items to wrap onto a new line if needed
-- What is the purpose of Align Items?
-  - aligns items vertically
