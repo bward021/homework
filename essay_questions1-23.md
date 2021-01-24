@@ -1,0 +1,65 @@
+
+## Essay Questions
+### Introduction to Programming with Python
+- What is a Tuple in python?
+    - It is a data type that acts like a list but is immutable
+- What is a Set in python?
+    - They are used to store multiple values to a variable.
+- Name 2 types of loops in Python
+    - For loop and while loop
+- What is List Comprehension in Python?
+    - They are used to create new lists and updated lists from current data
+- What is a Python Conditional and what is it used for?
+    - a condditional is a if else statement that allows you to search for specific types or data.
+- What happens when you return a value for a python method/function
+    - it returns the value so that you can use it.
+- What is a default argument and explain a use case.
+    - it is a arguement set that a function defaults to if there is no other arguements passed.
+- What is a named argument?
+    - it is an arguement that you name and set a value too.
+- What does the *args  do in a python function and how might you use it?
+    - it accepts a unknown amount of arguements into a function or method.
+- What are Keyword Arguments in Python?
+    - they are arguements but for a dictionary.
+### Advanced Python Programming
+- What is a Class in python?
+    - a class is a blueprint for data and information that you can call between functions and parts
+- What is a dunder method in Python
+    - a method called with a prefix of two underscores and followed by two underscores. 
+- What is self in python and how might we use it?
+    - it is used in the instance of the class allowing you to call it.
+- How does inheritance work in python?
+    - inheritance is used between classes so that one class can inherit the attributes of another class 
+- What is pipenv?
+    - it is an environment that you can set that allows for the usage of a specific package from pip
+- What is Polymorphism
+    - is repeating the use of a function in a seperate class but changing it.
+- What is the purpose of __init__ in python
+    - It is used to initialize the attributes of a class in a program.
+- What is a decorator and what is its purpose in python
+    - A decorator is a design pattern in Python that allows a user to add new functionality to an existing object without modifying its structure
+- What is a Generator in python
+    - a way to return iterate through data and return a irritable data
+- How do you declare a new instance of a class?
+    - you instatiate a class by assigning it to an object.
+### Python API Development with Flask
+- What is Flask?
+    - a web framework that allows for the quick start of creating applications.
+- What is an API?
+    - it is a Application Programming interface that allows us to collect store and retreive data
+- What is the purpose of an API endpoint?
+    - its purpose is to provide a means of interacting between an API and a server.
+- What is pipenv?
+    it is a pip environment that allows for the usage of specific libraries.
+- What is SQLite?
+    - it is used to create a local server it, databases and SQLite database fil
+- Explain how you can use the HTTP verb POST
+    - it is used to update data to a database
+- Explain how you can use the HTTP verb GET
+    - it is used to read data from a source
+- Explain how you can use the HTTP verb PUT
+    - It is used to update data
+- Explain how you can use the HTTP verb DELETE
+    - used to delete data from a database or api
+- Explain what SQLAlchemy is?
+    - it is a program used to traverse and read html or xml
