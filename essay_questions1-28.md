@@ -1,0 +1,65 @@
+### MongoDB for Developers
+- What is MongoDB
+    - It is a database interface 
+- What is a MongoDB Collection
+    - it is a collection of data
+- What is a Document and how do you use them in mongodb?
+    - It is a unit for storing data in JSON format
+- What is the find() method used for?
+    - it is used to find the result that you are looking for.
+- What is the .pretty used for?
+    - It is used to return the data in a readable format
+- What is the difference between SQL databases and Mongodb
+    - SQL stores structured sata while mongo stores non-structured data
+- How would you add a document in a mongodb database
+    - you would use the insertOne() function
+- How would you use a projection?
+    - it is used to show only the data that you want shown
+- How do you run a local instance of mongo
+    - 
+- How would you delete a document
+    - db.collection.deleteOne()
+### Introduction to JavaScript
+- How do you set varaibles in javascript
+    - you have to define it by using one of the following: var, let, const
+- What is javascript hoisting
+    - it hoists certain objects and items to the beginning of the program
+- List 3 javascript datatypes
+    - Number, String, Array, Object
+- What is the order of operations in Javascript
+    - PEMDAS
+- How do you use conditionals in javascript?
+    - you define them using if statements (also else if and else)
+- What is a switch statement, and how would you use one?
+    - it is a conditional that uses cases to determine the specific functionality
+- What is a ternary operator
+    - it is similiar to a conditional but put in one line. we shouldn't make them to long
+- What is a function?
+    - it is a defined process that takes place in the program
+- What is a function argument?
+    - it is a value or reference that is passed into the function to be used.
+- What is the "this" keyword in javascript?
+    - it is used to refer to the object that it belongs to.
+- What is a Javascript array?
+    - it is similair to a list in python and can hold other data types in it.
+- What is a Javascript object?
+    - it is similiar to a python dictionary where it has a key: value pair for its elements
+- List 3 types of javascript loops
+    - for, while, for in loops
+### Modern JavaScript
+- Explain the const variable.
+    - const variables are like let variables but cannot be redefined
+- What do you use for modern string interpolation in Javasript
+    - you use back ticks
+- Explain an arrow function and how you might use one
+    - it can be used to write a function in shorter syntax. but it changes the scope of 'this' to always represent the object that calls the arrow function
+- What is array destructuring?
+    - it is used to extract multiple elements from an array
+- What is the javascript spread operator what is it used for?
+    - you use three dots and it returns each element of an array as a string.
+- What is Variable Deconstruction in Javascript!
+    - it allows you to retreive specific data from a variable object
+- How does the this keyword work with arrow functions
+    - it changes the scope of 'this' to always represent the object that calls the arrow function
+- How do you pass a javscript object as function arguments by leveraging decontruction?
+    - you can use the keywords seperated by a comma in between curly brackets
