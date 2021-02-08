@@ -16,22 +16,39 @@
 - How do you create a custom error class in Javascript?
     - you have to extend the built in error class.
 - What is npm?
-    -
+    - it is a package manager for JavaScript
 - What is node?
     - 
 ### Guide to Git
 - How do you create a local repository?
+    - git init
 - What is github?
+    - it is a remote origin of git where you can upload 
 - How would you push a git repo to git hub?
+    - you have to create and attach the repository and then after the initial steps are done you put in the command git push
 - What are the steps to make a git commit?
+    - git status
+    - git add .
+    - git commit -m "some message"
 - How would you hide files from git?
+    - create a git ignore gile and adding the file names to it
 - Why would you want to hide files from git?
+    - incase they had privat or sensitive information in the file such as passwords.
 - What does git pull do?
+    - it pulls down the latest code from a remote source
 - What is the purpose of git branches?
+    - it allows you to work on code without worrying that someone else is working and changing something
 - How would you push a git branch to github?
+    - you can say git push and then copy paste the command that it tells you
 - Expalin how to merge a remote branch.
+    - I would do it in the remote source. per say Github I would go through and follow the green buttons after review the code
 - What is git rebase?
+    - it allows you to get updated code when in a branch
 - What is git stash?
+    - it allows you to stash unfunctional code so that you can work on it later before commiting it
 - What is the difference between git fetch and git pull?
+    - git fetch can get data without immediately merging.
 - What is a merge conflict?
+    - it is when there is code in the same place in a program or the same code.
 - How can a merge conflict occur?
+    - when multiple people are working on the same code and they each have branches that the branch master is trying to merge.
