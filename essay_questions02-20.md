@@ -1,0 +1,41 @@
+## Essay Questions
+### JavaScript in the Browser
+- What is the DOM?
+  - Document Object Model
+- How would you add a css class with Vanilla Javascript?
+  - you could use an event listener to listen to an action and then toggle the class name
+- How would you remove a css class with Vanilla Javascript?
+  - you could use an event listener to listen to an action and then toggle the class name
+- Explain the Differences Between the Window and Document for JavaScript Development
+  - the window is everything in the browser and the document is within the window and displays the html/css
+- What are query selectors?
+  - they allow you to search a page for a specific element and allows you to work with it.
+- What are Javascript event listners?
+  - they listen to the user interface for a specific event that you can use to track data or trigger behanior
+- What is onclick and what can we use it for?
+  - onclick is an event listener that listens to a users click. we could use it for a dropdown menu
+- What is the difference between onclick and addEventListener?
+  - they are relatively the same but addEventListener allows for more flexibilty.
+- How can you Add and Remove CSS Styles in Vanilla JavaScript?
+  - you could use an event listener to listen to an action and then toggle the class name
+- What is the javascript Toggle function?
+  - it allows you to toggle a classname or behavior in a webpage. (toggle())
+### UML for Developers
+- What are UML Structural Diagrams?
+  - they are used to show the structure of a webpage and how one element relates to another.
+- What are UML Behavioral Diagrams?
+  - used to show the behavior of a webpage and UI
+- What are UML Class Diagram Associations, Multiplicity, and Navigability?
+  - they are ways of telling us mor detailed information. Multiplicity tells us how many times a class can relate to another. association is how a class associates with another. and navigability is how one navigated through the classes
+- What are UML Activity Diagrams?
+  - they show us the flow of a program as if a user were utilizing it.
+- What are UML Use Case Diagrams?
+  - they summarize the use-cases of "actors" in your program (ex. how an admin would use it)
+- What are UML Deployment Diagrams?
+  - they show how the services such as servers, databases and such will interact upon deployment.
+- What are UML Package Diagrams?
+  - allow you to group items and other diagrams together to show dependencies between them.
+- What are UML Interaction Sequence Diagrams?
+  - it is used to discribe how elements of a program will interact and work together.
+- What are UML State Machine Diagrams?
+  - this shows us how transitions are made from object to object.
