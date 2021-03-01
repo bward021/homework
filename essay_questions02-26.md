@@ -1,0 +1,45 @@
+
+## Essay Questions
+### Dissecting React JS
+- What is React?
+  - it is a library for Javascript that allows one to build an interactive UI
+- What are some benefits that React gives us in development?
+  - a benefit that i really like if the SPA development where pages don't require reloads but components can update
+- What is a react Class component?
+  - it is an extension of component that allows for state and lifecycle methods
+- What is a react Functional component?
+  - a function that can be used as a component
+- What is the difference between class and functional components?
+  - Component allows for state and lifecycle methods
+- What are props? and what purpose does it serve?
+  - props are parameters that you can pass from one component to another
+- What does JSX stand for and how does it help us?
+  - Havascript XML. it allows us to render HTML from react
+- What is state? and give an example of its use.
+  - state is a value that is given to a class component. you can use it to update databases with typed input 
+- What is the react-router?
+  - A tool allows you to handle routes in react
+- What is the difference between Link tags and Navlink tags when working with the Router?
+  - NavLink gives you a lot more methods and props that you can work with
+- What is Axios?
+  - it is a library that allows one to interact with an API
+- What are the HTTP verbs and what do they do?
+  - HTTP Verbs are methods. such as "POST", "GET", "DELETE" etc.
+- What is the Javascript Debugger?
+  - it is a tool that you can use in the browser by putting the word debugger in your code.
+- What is the purpose of forms in react?
+  - Forms allow us to update state and store data into our data bases
+- What does a session refer to when dealing with logins?
+  - the cookies
+- Explain Render Props.
+  - it is when components share functions to render information or JSX
+- Explain one way to update a parent component from a child component.
+  - You pass props in and then call the function that is in the parent component with props
+- What is a higher-order component?
+  - it is used to reuse a components logic.
+- How do we update and/or replace state in React?
+  - we call this.setState({})
+- What are refs? and when should you use them?
+  - refs are used to access the DOM. You can use them to reset the dropzone component.
+- What purpose does API's serve?
+  - API's allow us to interact with databases by calling and commiting to them.
