@@ -1,0 +1,25 @@
+### SQL Bootcamp
+- What is SQL?
+  - a relational database
+- What is MySQL?
+  - it is a free version of a SQL database
+- What is MySQL Workbench?
+  - it is a client that allows you to interact with a database without using a command line
+- What is a table in SQL?
+  - it is a representation of an item of data that you want to track
+- What is a column in SQL?
+  - it is an attribute of the data that you are tracking
+- What is a row in SQL?
+  - it is an instance of the columns you are taking data on. ex. John, and the columns would be name, age, DOB etc.
+- List 5 SQL Data types
+  - varchar, int, decimal, Blob, datetime
+- What is a Query?
+  - it is an instance of requesting data from the database
+- What is a wildcard query?
+  - it is used to query data by a word it contains or if you can't remember how to spell it.
+- What are SQL Functions?
+  - they are used to perform CRUD in SQL
+- What is an Inner Join?
+  - joins tables that have matching values in both tables
+- What is an Outer Join?
+  -  joins tables that have one matching column between them
